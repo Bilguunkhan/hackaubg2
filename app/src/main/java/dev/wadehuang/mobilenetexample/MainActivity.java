@@ -2,6 +2,7 @@ package dev.wadehuang.mobilenetexample;
 
 import android.Manifest;
 import android.app.Activity;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.database.DataSetObserver;
 import android.graphics.Bitmap;
@@ -193,6 +194,10 @@ public class MainActivity extends Activity
                 requestPermission();
             }
         }
+    }
+    public void classifyActivity(View view){
+        Intent intent = new Intent(this, classifierActivity.class);
+        startActivity(intent);
     }
     //endregion
 }

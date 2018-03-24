@@ -1,0 +1,7 @@
+#Sat Mar 24 21:50:00 EET 2018
+base.0=C\:\\Users\\bilguun\\Desktop\\hackaubg\\tensorflow_mobilenet_android_example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7624d2ac49364b2d2e904ecff5e0ba68b020ff14
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\bilguun\\Desktop\\hackaubg\\tensorflow_mobilenet_android_example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb3136f603023937b9c4f6862c634ed48b82b531\\classes.dex
+base.1=C\:\\Users\\bilguun\\Desktop\\hackaubg\\tensorflow_mobilenet_android_example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cb3136f603023937b9c4f6862c634ed48b82b531
+file.0=C\:\\Users\\bilguun\\Desktop\\hackaubg\\tensorflow_mobilenet_android_example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7624d2ac49364b2d2e904ecff5e0ba68b020ff14\\classes.dex

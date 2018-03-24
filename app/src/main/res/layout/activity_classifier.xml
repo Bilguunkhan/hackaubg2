@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#333"
+    tools:context="dev.wadehuang.mobilenetexample.classifierActivity">
+
+
+
+
+    <ImageView android:id="@+id/capturedImage" android:layout_height="400dp"  android:layout_width="fill_parent"></ImageView>
+    <Button android:id="@+id/button1" android:layout_centerInParent="true"  android:layout_below="@id/capturedImage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="New Capture"></Button>
+
+    <TextView
+        android:layout_below="@id/button1"
+        android:id="@+id/resultList"
+        android:layout_marginTop="60dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+</RelativeLayout>
