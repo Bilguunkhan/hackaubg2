@@ -4,6 +4,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/0.6.0/8cab93c560c43ca22a16b2e2f2499109d12eb033/proto-google-iam-v1-0.6.0.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-iam-v1/0.6.0/aec3f77f65d3cf84344ea18ceea49fff252907f0/proto-google-iam-v1-0.6.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

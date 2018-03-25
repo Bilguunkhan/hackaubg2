@@ -4,6 +4,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/1.5.0/5de30cba030721f86a49ff061d519a84547d6523/proto-google-common-protos-1.5.0.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-common-protos/1.5.0/cd2f43ec2d2003a865f2f28cc2a1460df38be555/proto-google-common-protos-1.5.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

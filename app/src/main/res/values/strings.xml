@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">SCAN I/O</string>
     <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="language_prompt">Choose a language</string>
+    <string-array name="languages">
+        <item name="bg">Bulgarian</item>
+        <item name="de">German</item>
+        <item name="fr">French</item>
+        <item name="ru">Russian</item>
+        <item name="sp">Spanish</item>
+        <item name="zh-CHS" >Chinese</item>
+        <item name="it">Italian</item>
+
+    </string-array>
 </resources>

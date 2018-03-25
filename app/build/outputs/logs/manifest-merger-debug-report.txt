@@ -1,136 +1,140 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:2:1-44:12
 	package
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:5:5-65
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:5:5-65
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:5:22-62
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:5:22-62
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:6:5-66
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:6:5-67
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:7:5-97
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:8:5-97
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:8:22-78
 uses-feature#android.hardware.camera
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:9:5-11:35
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:10:5-12:35
 	android:required
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:11:9-32
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:12:9-32
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:10:9-47
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:11:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:12:5-70
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:13:5-70
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:12:19-67
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:13:19-67
 application
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:14:5-41:19
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\bilguun\.android\build-cache\17f3b1907f667ff223c18fbe417e8b978fda4c74\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\bilguun\.android\build-cache\ea227becba4e9fbcf6a06c26d285c3b3c15fac87\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\bilguun\.android\build-cache\fd96299a2d1dbd69dccd92752035270787b5d8ce\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\bilguun\.android\build-cache\97923066a0a5182e528fb83c46bbed3e6fd80955\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\bilguun\.android\build-cache\f80d86a30ca01042fb371580ea5a4d1b20d9b6d6\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\bilguun\.android\build-cache\e507d1920e56c3ea6c6a4869ffde4158605c678c\output\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\bilguun\.android\build-cache\3b16a3e04975782bf8bd0e35ab25439b3504dde6\output\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\bilguun\.android\build-cache\44114d5611a55c1310ebb980dbd67182f44317c7\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\bilguun\.android\build-cache\fbc325a063fe311e769d6e7dd7ac3ecd72671c96\output\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bilguun\.android\build-cache\dc6bbebb653fb626aa86289950fed771f9efd365\output\AndroidManifest.xml:9:5-20
-MERGED from [org.tensorflow:tensorflow-android:1.2.0] C:\Users\bilguun\.android\build-cache\18615c5319efb3554ee6923d01f26a1736cbdc7e\output\AndroidManifest.xml:5:5-6:19
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:15:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Pavel\.android\build-cache\06ae4d37bbafd80ae44b1140918deb4b88d3bfb7\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Pavel\.android\build-cache\7f6a1ba931f0e9bf1084e9ae9713d35dcdb10612\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Pavel\.android\build-cache\f1b1cf37046b2b449cdabf0f4dfc8abdf6a31566\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Pavel\.android\build-cache\2897c35ba43dac782468e6842395d64d06258452\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Pavel\.android\build-cache\b5f91af0147183c86d6b6870e037398d6de67081\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Pavel\.android\build-cache\b8e17d9c432381930055a6809b9f26ceb77c3f51\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Pavel\.android\build-cache\1a6976c540f96bf6ef6a54af7d72b1d9d8726b32\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Pavel\.android\build-cache\e6627d2ef446112a4ffa0da3396d5074854d6c4c\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Pavel\.android\build-cache\759dc7a2c26abf0eae952f272566be8dad5e55b7\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pavel\.android\build-cache\b0bdc39e4b09b120f8d8a86cad0b9cf84e5eca55\output\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.2.0] C:\Users\Pavel\.android\build-cache\e552456c463c58e6ac03948984cf006505faa722\output\AndroidManifest.xml:5:5-6:19
 	android:label
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:17:9-41
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:18:9-41
 	android:supportsRtl
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:19:9-36
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:20:9-36
 	android:roundIcon
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:18:9-54
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:19:9-54
 	android:allowBackup
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:16:9-35
 	android:icon
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:17:9-43
 	android:theme
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:20:9-40
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:21:9-40
 activity#dev.wadehuang.mobilenetexample.MainActivity
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:21:9-29:20
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:22:9-30:20
 	android:screenOrientation
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:23:13-49
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:24:13-49
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:22:13-41
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:23:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:28:27-74
 activity#dev.wadehuang.mobilenetexample.classifierActivity
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:30:9-56
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:31:9-56
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:30:19-53
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:31:19-53
 provider#android.support.v4.content.FileProvider
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:31:9-39:20
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:32:9-40:20
 	android:authorities
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:33:13-67
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:34:13-67
 	android:grantUriPermissions
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:35:13-47
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:36:13-47
 	android:exported
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:34:13-37
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:32:13-67
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:33:13-67
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:36:13-38:64
+ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:37:13-39:64
 	android:resource
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:38:17-51
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:39:17-51
 	android:name
-		ADDED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:37:17-67
+		ADDED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:38:17-67
 uses-sdk
-INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\bilguun\.android\build-cache\17f3b1907f667ff223c18fbe417e8b978fda4c74\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\bilguun\.android\build-cache\ea227becba4e9fbcf6a06c26d285c3b3c15fac87\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\bilguun\.android\build-cache\fd96299a2d1dbd69dccd92752035270787b5d8ce\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\bilguun\.android\build-cache\97923066a0a5182e528fb83c46bbed3e6fd80955\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\bilguun\.android\build-cache\f80d86a30ca01042fb371580ea5a4d1b20d9b6d6\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\bilguun\.android\build-cache\e507d1920e56c3ea6c6a4869ffde4158605c678c\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\bilguun\.android\build-cache\3b16a3e04975782bf8bd0e35ab25439b3504dde6\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\bilguun\.android\build-cache\44114d5611a55c1310ebb980dbd67182f44317c7\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\bilguun\.android\build-cache\fbc325a063fe311e769d6e7dd7ac3ecd72671c96\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\bilguun\.android\build-cache\dc6bbebb653fb626aa86289950fed771f9efd365\output\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Pavel\.android\build-cache\06ae4d37bbafd80ae44b1140918deb4b88d3bfb7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Pavel\.android\build-cache\7f6a1ba931f0e9bf1084e9ae9713d35dcdb10612\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Pavel\.android\build-cache\f1b1cf37046b2b449cdabf0f4dfc8abdf6a31566\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Pavel\.android\build-cache\2897c35ba43dac782468e6842395d64d06258452\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Pavel\.android\build-cache\b5f91af0147183c86d6b6870e037398d6de67081\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Pavel\.android\build-cache\b8e17d9c432381930055a6809b9f26ceb77c3f51\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Pavel\.android\build-cache\1a6976c540f96bf6ef6a54af7d72b1d9d8726b32\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Pavel\.android\build-cache\e6627d2ef446112a4ffa0da3396d5074854d6c4c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Pavel\.android\build-cache\759dc7a2c26abf0eae952f272566be8dad5e55b7\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pavel\.android\build-cache\b0bdc39e4b09b120f8d8a86cad0b9cf84e5eca55\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\bilguun\.android\build-cache\17f3b1907f667ff223c18fbe417e8b978fda4c74\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Pavel\.android\build-cache\06ae4d37bbafd80ae44b1140918deb4b88d3bfb7\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\bilguun\.android\build-cache\17f3b1907f667ff223c18fbe417e8b978fda4c74\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:25.4.0] C:\Users\bilguun\.android\build-cache\ea227becba4e9fbcf6a06c26d285c3b3c15fac87\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\bilguun\.android\build-cache\fd96299a2d1dbd69dccd92752035270787b5d8ce\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\bilguun\.android\build-cache\97923066a0a5182e528fb83c46bbed3e6fd80955\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\bilguun\.android\build-cache\f80d86a30ca01042fb371580ea5a4d1b20d9b6d6\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\bilguun\.android\build-cache\e507d1920e56c3ea6c6a4869ffde4158605c678c\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\bilguun\.android\build-cache\3b16a3e04975782bf8bd0e35ab25439b3504dde6\output\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\bilguun\.android\build-cache\44114d5611a55c1310ebb980dbd67182f44317c7\output\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:25.4.0] C:\Users\bilguun\.android\build-cache\fbc325a063fe311e769d6e7dd7ac3ecd72671c96\output\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Pavel\.android\build-cache\06ae4d37bbafd80ae44b1140918deb4b88d3bfb7\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Pavel\.android\build-cache\7f6a1ba931f0e9bf1084e9ae9713d35dcdb10612\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Pavel\.android\build-cache\f1b1cf37046b2b449cdabf0f4dfc8abdf6a31566\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Pavel\.android\build-cache\2897c35ba43dac782468e6842395d64d06258452\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Pavel\.android\build-cache\b5f91af0147183c86d6b6870e037398d6de67081\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Pavel\.android\build-cache\b8e17d9c432381930055a6809b9f26ceb77c3f51\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Pavel\.android\build-cache\1a6976c540f96bf6ef6a54af7d72b1d9d8726b32\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Pavel\.android\build-cache\e6627d2ef446112a4ffa0da3396d5074854d6c4c\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Pavel\.android\build-cache\759dc7a2c26abf0eae952f272566be8dad5e55b7\output\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\bilguun\.android\build-cache\17f3b1907f667ff223c18fbe417e8b978fda4c74\output\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Pavel\.android\build-cache\06ae4d37bbafd80ae44b1140918deb4b88d3bfb7\output\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\bilguun\.android\build-cache\17f3b1907f667ff223c18fbe417e8b978fda4c74\output\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Pavel\.android\build-cache\06ae4d37bbafd80ae44b1140918deb4b88d3bfb7\output\AndroidManifest.xml:27:13-51
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:2:1-43:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+IMPLIED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:2:1-44:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\Users\bilguun\Desktop\hackaubg\tensorflow_mobilenet_android_example\app\src\main\AndroidManifest.xml:2:1-43:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Pavel\Desktop\hack\hackaubg2\app\src\main\AndroidManifest.xml:2:1-44:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

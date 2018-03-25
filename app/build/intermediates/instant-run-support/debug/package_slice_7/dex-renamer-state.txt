@@ -1,4 +1,0 @@
-#Sat Mar 24 18:26:20 EET 2018
-base.0=C\:\\Users\\bilguun\\Desktop\\hackaubg\\tensorflow_mobilenet_android_example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
-renamed.0=classes.dex
-file.0=C\:\\Users\\bilguun\\Desktop\\hackaubg\\tensorflow_mobilenet_android_example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

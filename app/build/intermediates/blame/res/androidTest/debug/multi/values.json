@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\bilguun\\Desktop\\hackaubg\\tensorflow_mobilenet_android_example\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Pavel\\Desktop\\hack\\hackaubg2\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\bilguun\\.android\\build-cache\\26afaddbac69584be8a78b37775a795dfa3bb136\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\Pavel\\.android\\build-cache\\cbc530217ac7007673c92b6a6653aa0f28196e64\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -4,6 +4,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api/gax-httpjson/0.37.0/76ca1c8f09cd0dbfaabfe8ba6e687672dec607c0/gax-httpjson-0.37.0.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api/gax-httpjson/0.37.0/3551d5bee722336628f3daaac6cd8c8cc95408b2/gax-httpjson-0.37.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

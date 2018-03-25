@@ -4,6 +4,8 @@
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-http/1.23.0/4027bc4e2c167ffcbe57d97e4cff4dc2bbfe6083/google-cloud-core-http-1.23.0.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-core-http/1.23.0/665aee2af7902238292b074417703c660eedc420/google-cloud-core-http-1.23.0-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

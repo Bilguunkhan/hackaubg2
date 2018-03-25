@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#333"
+    android:background="#fcca64"
     tools:context="dev.wadehuang.mobilenetexample.classifierActivity">
 
 
@@ -13,10 +13,32 @@
     <ImageView android:id="@+id/capturedImage" android:layout_height="400dp"  android:layout_width="fill_parent"></ImageView>
     <Button android:id="@+id/button1" android:layout_centerInParent="true"  android:layout_below="@id/capturedImage" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="New Capture"></Button>
 
+    <Spinner
+        android:id="@+id/lang_spinner"
+        android:layout_width="wrap_content"
+        android:padding="5px"
+        android:layout_height="wrap_content"
+        android:entries="@array/languages"
+        android:prompt="@string/language_prompt"
+        android:layout_below="@id/button1"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"/>
+
     <TextView
         android:layout_below="@id/button1"
         android:id="@+id/resultList"
+        android:textColor="#43434f"
+        android:layout_marginLeft="20px"
         android:layout_marginTop="60dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:layout_below="@id/resultList"
+        android:id="@+id/resultList2"
+        android:textColor="#43434f"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="20px"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         />
